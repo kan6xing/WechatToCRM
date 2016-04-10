@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[AutoTaskPlugins.csproj]
+SCC_Aux_Path = "E:\jsvss"
+SCC_Project_Name = "$/Yanjun/Code/AutoTaskExe/AutoTaskPlugins", MXAAAAAA

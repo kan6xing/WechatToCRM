@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="urn:Customer" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns="http://schemas.xmlsoap.org/wsdl/" name="Customer" targetNamespace="urn:Customer" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types xmlns="http://schemas.xmlsoap.org/wsdl/" />
+  <wsdl:message name="serviceMessageSendInterfaceRequest">
+    <wsdl:part name="imgid" type="xsd:string" />
+    <wsdl:part name="token" type="xsd:string" />
+    <wsdl:part name="wechatid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="serviceMessageSendInterfaceResponse">
+    <wsdl:part name="serviceMessageSendInterface" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GroupMessageSendInterfaceRequest">
+    <wsdl:part name="imgid" type="xsd:string" />
+    <wsdl:part name="token" type="xsd:string" />
+    <wsdl:part name="groupid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GroupMessageSendInterfaceResponse">
+    <wsdl:part name="GroupMessageSendInterface" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="curlGetRequest">
+    <wsdl:part name="url" type="xsd:string" />
+    <wsdl:part name="data" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="curlGetResponse">
+    <wsdl:part name="curlGet" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="CustomerPort">
+    <wsdl:operation name="serviceMessageSendInterface">
+      <wsdl:input message="tns:serviceMessageSendInterfaceRequest" />
+      <wsdl:output message="tns:serviceMessageSendInterfaceResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GroupMessageSendInterface">
+      <wsdl:input message="tns:GroupMessageSendInterfaceRequest" />
+      <wsdl:output message="tns:GroupMessageSendInterfaceResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="curlGet">
+      <wsdl:input message="tns:curlGetRequest" />
+      <wsdl:output message="tns:curlGetResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CustomerBinding" type="tns:CustomerPort">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="serviceMessageSendInterface">
+      <soap:operation soapAction="urn:Customer#Customer#serviceMessageSendInterface" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GroupMessageSendInterface">
+      <soap:operation soapAction="urn:Customer#Customer#GroupMessageSendInterface" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="curlGet">
+      <soap:operation soapAction="urn:Customer#Customer#curlGet" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:Customer" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Customer">
+    <documentation />
+    <wsdl:port name="CustomerPort" binding="tns:CustomerBinding">
+      <soap:address location="http://test.ylxrm.com:80/soap1.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

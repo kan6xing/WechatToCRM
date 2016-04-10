@@ -1,0 +1,20 @@
+C:\GoldenHarvestPlugins\obj\Debug\GHPlugins.csprojResolveAssemblyReference.cache
+C:\GoldenHarvestPlugins\bin\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\bin\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\obj\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\obj\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins\bin\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins\bin\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins\obj\Debug\GHPlugins.csprojResolveAssemblyReference.cache
+C:\GoldenHarvestPlugins\GHPlugins\obj\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins\obj\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins - 副本\bin\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins - 副本\bin\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins - 副本\obj\Debug\GHPlugins.csprojResolveAssemblyReference.cache
+C:\GoldenHarvestPlugins\GHPlugins - 副本\obj\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins - 副本\obj\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins - 不包含C单\bin\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins - 不包含C单\bin\Debug\GoldenHarvestPlugins.pdb
+C:\GoldenHarvestPlugins\GHPlugins - 不包含C单\obj\Debug\GHPlugins.csprojResolveAssemblyReference.cache
+C:\GoldenHarvestPlugins\GHPlugins - 不包含C单\obj\Debug\GoldenHarvestPlugins.dll
+C:\GoldenHarvestPlugins\GHPlugins - 不包含C单\obj\Debug\GoldenHarvestPlugins.pdb

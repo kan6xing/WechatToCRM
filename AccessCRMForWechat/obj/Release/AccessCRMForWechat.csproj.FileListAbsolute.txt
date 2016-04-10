@@ -1,0 +1,21 @@
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\AccessCRMForWechat.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\AccessCRMForWechat.pdb
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.IdentityModel.3.5.0.0.Fakes.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.IdentityModel.3.5.0.0.Fakes.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Release\AccessCRMForWechat.csprojResolveAssemblyReference.cache
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Release\AccessCRMForWechat.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Release\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\AccessCRMForWechat.dll
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\Microsoft.IdentityModel.3.5.0.0.Fakes.xml
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Release\AccessCRMForWechat.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Release\AccessCRMForWechat.dll
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Release\AccessCRMForWechat.pdb

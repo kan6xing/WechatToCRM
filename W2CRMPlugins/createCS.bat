@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\svcutil.exe http://localhost:1195/Service1.svc?wsdl

@@ -1,0 +1,9 @@
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.Form1.resources
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.Properties.Resources.resources
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.csproj.GenerateResource.Cache
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\bin\Debug\TestWCFClient.exe
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\bin\Debug\TestWCFClient.pdb
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.exe
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\obj\Debug\TestWCFClient.pdb
+C:\WechatToCRM - new\TestWCFClient\TestWCFClient\bin\Debug\TestWCFClient.exe.config

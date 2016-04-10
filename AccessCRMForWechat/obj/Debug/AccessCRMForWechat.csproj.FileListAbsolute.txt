@@ -1,0 +1,27 @@
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.csprojResolveAssemblyReference.cache
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.pdb
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.IdentityModel.3.5.0.0.Fakes.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.IdentityModel.3.5.0.0.Fakes.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.dll
+C:\testconnect2013\testconnect\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.pdb
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.pdb
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\Microsoft.IdentityModel.3.5.0.0.Fakes.xml
+C:\WechatToCRM\AccessCRMForWechat\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\WechatToCRM\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.csprojResolveAssemblyReference.cache
+C:\WechatToCRM\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Debug\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\AccessCRMForWechat\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\WechatToCRM - new\AccessCRMForWechat\obj\Debug\AccessCRMForWechat.pdb

@@ -1,0 +1,15 @@
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\CRMToWechat.exe.config
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\CRMToWechat.exe
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\CRMToWechat.pdb
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.Properties.Resources.resources
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.csproj.GenerateResource.Cache
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.exe
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.pdb
+C:\WechatToCRM - new\CRMToWechat\obj\Debug\CRMToWechat.Form_C2W.resources
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\Microsoft.IdentityModel.3.5.0.0.Fakes.dll
+C:\WechatToCRM - new\CRMToWechat\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

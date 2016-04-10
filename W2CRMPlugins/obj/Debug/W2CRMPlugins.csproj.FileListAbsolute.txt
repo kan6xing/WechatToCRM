@@ -1,0 +1,6 @@
+C:\WechatToCRM - new\W2CRMPlugins\bin\Debug\Wechat2CRMPlugins.dll
+C:\WechatToCRM - new\W2CRMPlugins\bin\Debug\Wechat2CRMPlugins.pdb
+C:\WechatToCRM - new\W2CRMPlugins\obj\Debug\W2CRMPlugins.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\W2CRMPlugins\obj\Debug\Wechat2CRMPlugins.dll
+C:\WechatToCRM - new\W2CRMPlugins\obj\Debug\Wechat2CRMPlugins.pdb
+C:\WechatToCRM - new\W2CRMPlugins\bin\Debug\Wechat2CRMPlugins.dll.config

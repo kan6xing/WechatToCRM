@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWCFClient", "TestWCFClient\TestWCFClient.csproj", "{96A65B0C-3E0C-4D0B-B330-ADEF9654ABBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A65B0C-3E0C-4D0B-B330-ADEF9654ABBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A65B0C-3E0C-4D0B-B330-ADEF9654ABBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A65B0C-3E0C-4D0B-B330-ADEF9654ABBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A65B0C-3E0C-4D0B-B330-ADEF9654ABBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

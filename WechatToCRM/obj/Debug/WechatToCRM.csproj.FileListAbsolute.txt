@@ -1,0 +1,28 @@
+c:\WechatToCRM\WechatToCRM\bin\Debug\WechatToCRM.exe.config
+c:\WechatToCRM\WechatToCRM\bin\Debug\WechatToCRM.exe
+c:\WechatToCRM\WechatToCRM\bin\Debug\WechatToCRM.pdb
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.csprojResolveAssemblyReference.cache
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.Form1.resources
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.Properties.Resources.resources
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.csproj.GenerateResource.Cache
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.exe
+c:\WechatToCRM\WechatToCRM\obj\Debug\WechatToCRM.pdb
+c:\WechatToCRM\WechatToCRM\bin\Debug\AccessCRMForWechat.dll
+c:\WechatToCRM\WechatToCRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\WechatToCRM\WechatToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\WechatToCRM\WechatToCRM\bin\Debug\AccessCRMForWechat.pdb
+c:\WechatToCRM\WechatToCRM\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\WechatToCRM\WechatToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\WechatToCRM.exe.config
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.exe
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.pdb
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.Form1.resources
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.Properties.Resources.resources
+C:\WechatToCRM - new\WechatToCRM\obj\Debug\WechatToCRM.csproj.GenerateResource.Cache
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\WechatToCRM.exe
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\WechatToCRM.pdb
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\AccessCRMForWechat.dll
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\WechatToCRM - new\WechatToCRM\bin\Debug\AccessCRMForWechat.pdb

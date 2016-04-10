@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WechatToCRM", "WechatToCRM\WechatToCRM.csproj", "{7DC87D86-51F2-49DF-A85A-D9C190004A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessCRMForWechat", "AccessCRMForWechat\AccessCRMForWechat.csproj", "{6B6E0CAD-F6C2-4860-9192-81BDC06661AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleDBService", "MiddleDBService\MiddleDBService.csproj", "{551B282A-BAFD-45E2-8A9E-C51749AE7BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMToWechat", "CRMToWechat\CRMToWechat.csproj", "{DBF321EB-29BB-418C-ABFB-C18E1953263B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC87D86-51F2-49DF-A85A-D9C190004A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC87D86-51F2-49DF-A85A-D9C190004A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC87D86-51F2-49DF-A85A-D9C190004A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC87D86-51F2-49DF-A85A-D9C190004A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6E0CAD-F6C2-4860-9192-81BDC06661AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6E0CAD-F6C2-4860-9192-81BDC06661AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6E0CAD-F6C2-4860-9192-81BDC06661AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6E0CAD-F6C2-4860-9192-81BDC06661AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551B282A-BAFD-45E2-8A9E-C51749AE7BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551B282A-BAFD-45E2-8A9E-C51749AE7BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551B282A-BAFD-45E2-8A9E-C51749AE7BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551B282A-BAFD-45E2-8A9E-C51749AE7BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF321EB-29BB-418C-ABFB-C18E1953263B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF321EB-29BB-418C-ABFB-C18E1953263B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF321EB-29BB-418C-ABFB-C18E1953263B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF321EB-29BB-418C-ABFB-C18E1953263B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

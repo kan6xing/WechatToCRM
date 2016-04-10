@@ -1,0 +1,11 @@
+C:\WechatToCRM - new\MiddleDBService\bin\MiddleDBService.dll
+C:\WechatToCRM - new\MiddleDBService\bin\MiddleDBService.pdb
+C:\WechatToCRM - new\MiddleDBService\bin\AccessCRMForWechat.dll
+C:\WechatToCRM - new\MiddleDBService\bin\Microsoft.Xrm.Sdk.dll
+C:\WechatToCRM - new\MiddleDBService\bin\Microsoft.Crm.Sdk.Proxy.dll
+C:\WechatToCRM - new\MiddleDBService\bin\AccessCRMForWechat.pdb
+C:\WechatToCRM - new\MiddleDBService\bin\Microsoft.Xrm.Sdk.xml
+C:\WechatToCRM - new\MiddleDBService\bin\Microsoft.Crm.Sdk.Proxy.xml
+C:\WechatToCRM - new\MiddleDBService\obj\Release\MiddleDBService.csprojResolveAssemblyReference.cache
+C:\WechatToCRM - new\MiddleDBService\obj\Release\MiddleDBService.dll
+C:\WechatToCRM - new\MiddleDBService\obj\Release\MiddleDBService.pdb
